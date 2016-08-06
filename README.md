@@ -11,5 +11,4 @@ For example:
 2. Provide the ability to like and dislike a technology
 3. Increment the likes and dislikes when the respective buttons are clicked
 
-
-
+See the script.js and index.html file for how this is implemented, using the ```ng-click``` directive and two methods in the controller function; ```incrementLikes(technology)``` and ```incrementDislikes(technology)```.
